@@ -1,2 +1,2 @@
 # Portfolio-Website
-A Personal Portfolio Website using HTML, CSS, and JavaScript
+A Responsive Personal Portfolio Website using HTML, CSS, and JavaScript
